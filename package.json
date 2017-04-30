@@ -48,9 +48,6 @@
   "dependencies": {
     "material-ui": "^0.17.4",
     "react": "^0.14.6",
-    "react-dom": "^0.14.6",
-    "react-redux": "^5.0.4",
-    "react-tap-event-plugin": "^1.0.0",
-    "redux": "^1.0.0-rc"
+    "react-dom": "^0.14.6"
   }
 }

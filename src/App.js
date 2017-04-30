@@ -1,33 +1,8 @@
-/*
-Задание:
-Реализовать приложение забирающее 50 актуальных вакансии с сайта https://rabota.yandex.ru/search?job_industry=275 (или любого другого аналогичного ресурса) с поиском по загруженным вакансиям.
-
-Опционально графики/диграмма зарплат, компаний, какая-либо обработка получаемых данных, ну и любые другие крутые штуки.
-*/
-
-/*
-//почему-то глючит стиль, криво отображает кнопки. Поэтому шапку решил не делать
-import AppBar from './AppBar.js';
-*/
-
-/*
-Сделал подсветку текста при поиске, но это не работает в названиях компании и вакансии, т.к. они уже записаны в теге span.
-Решил убрать полностью
-*/
-
 import React, { Component } from 'react';
 import CircularProgress from 'material-ui/CircularProgress';
 import VacancyCard from './VacancyCard.js';
 import SearchField from 'material-ui/TextField';
 import Snackbar from 'material-ui/Snackbar';
-
-/*
-<Snackbar
-    open={this.state.SnackbarStatus}
-    message="Найдено: " {this.state.SearchCount}
-    autoHideDuration={1000}
-/>
-*/
 
 export default class App extends Component {
   render() {
