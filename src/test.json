@@ -1,0 +1,2849 @@
+{
+    "clusters": null,
+    "items": [
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Значительный опыт организации и управления службой поддержки сложных продуктов. Глубокое понимание банковской деятельности. Технический бэкграунд. Понимание архитектуры корпоративных информационных систем...",
+                "responsibility": "Управление службой сопровождения продуктов Colvir. Развитие и внедрение методологии процессов сопровождения. Развитие, внедрение и контроль соблюдения SLA с заказчиками. "
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Support Manager",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/20399481?host=hh.ru",
+            "created_at": "2017-04-29T14:11:34+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399481",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/491554.png",
+                    "240": "https://hhcdn.ru/employer-logo/491555.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/148889.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=707817",
+                "name": "Colvir Software Solutions",
+                "url": "https://api.hh.ru/employers/707817",
+                "alternate_url": "https://hh.ru/employer/707817",
+                "id": "707817",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:11:34+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399481",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399481"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Знания J2EE. Опыт работы с JSF обязателен. Опыт работы с ADF будет огромным плюсом.",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Java developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399479?host=hh.ru",
+            "created_at": "2017-04-29T14:11:05+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399479",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:11:05+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399479",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399479"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Core Java, Object Oriented Design &amp; Principles. JSP, JSF. SQL (желательно Oracle, PL/SQL). Хорошие аналитические способности и навыки исправления неисправностей. ",
+                "responsibility": "2+ года разработки J2EE приложений."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Middle Java developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399478?host=hh.ru",
+            "created_at": "2017-04-29T14:10:40+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399478",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:10:40+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399478",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399478"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Знания J2EE. SQL. Опыт работы с JSF обязателен.",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Junior Java developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399477?host=hh.ru",
+            "created_at": "2017-04-29T14:10:18+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399477",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:10:18+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399477",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399477"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Опыт работы от 1 года. Уверенные знания JavaEE, Web Services, SQL, EJB, JBoss, MVC, Oracle, Idea, Git.",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Java developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399475?host=hh.ru",
+            "created_at": "2017-04-29T14:09:57+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399475",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:09:57+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399475",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399475"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Опыт работы от 1,5 лет. Понимание работы протоколов передачи данных. Желателен опыт разработки интерфейсов web-приложений (портфолио).",
+                "responsibility": "Кросс-браузерная вёрстка. SVG, оптимизация изображений."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Front-end developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399473?host=hh.ru",
+            "created_at": "2017-04-29T14:09:30+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399473",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:09:30+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399473",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399473"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Опыт работы от 1 года. Уверенные знания JavaEE, Web Services, SQL, EJB, JBoss, MVC, Oracle, Idea, Git.",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Java developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399472?host=hh.ru",
+            "created_at": "2017-04-29T14:09:04+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399472",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:09:04+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399472",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399472"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Опыт разработки под Android - от 2-х лет. Общий опыт Java от 3-х лет. Опыт работы в команде (команда...",
+                "responsibility": "IOS."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Middle Android developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399469?host=hh.ru",
+            "created_at": "2017-04-29T14:08:45+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399469",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:08:45+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399469",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399469"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 50000,
+                "currency": "KZT"
+            },
+            "snippet": {
+                "requirement": "Творческих и креативных людей, увлеченных только своей профессией. Педагогическое или психологическое образование (желательно).",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Специалист по 3DS MAX",
+            "area": {
+                "url": "https://api.hh.ru/areas/205",
+                "id": "205",
+                "name": "Шымкент"
+            },
+            "url": "https://api.hh.ru/vacancies/20399467?host=hh.ru",
+            "created_at": "2017-04-29T14:08:34+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399467",
+            "relations": [],
+            "employer": {
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2601750",
+                "name": "SHYMSPACE",
+                "url": "https://api.hh.ru/employers/2601750",
+                "alternate_url": "https://hh.ru/employer/2601750",
+                "id": "2601750",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:08:34+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399467",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399467"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "ОС Linux, Windows - уровень администратора. Основы и навыки работы с одним и более серверов приложений: GlassFish, IBM Websphere, Oracle Weblogic. ",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Администратор серверов приложений",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399466?host=hh.ru",
+            "created_at": "2017-04-29T14:08:21+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399466",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:08:21+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399466",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399466"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Высшее образование. Опыт работы в тестировании ПО от 1го года. Теоретические знания методологии, принципов тестирования ПО и техникам контроля...",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "QA Engineer",
+            "area": {
+                "url": "https://api.hh.ru/areas/135",
+                "id": "135",
+                "name": "Харьков"
+            },
+            "url": "https://api.hh.ru/vacancies/20399463?host=hh.ru",
+            "created_at": "2017-04-29T14:07:38+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399463",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1389109.png",
+                    "240": "https://hhcdn.ru/employer-logo/1389110.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/236608.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=181766",
+                "name": "CS",
+                "url": "https://api.hh.ru/employers/181766",
+                "alternate_url": "https://hh.ru/employer/181766",
+                "id": "181766",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:07:38+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399463",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399463"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 50000,
+                "currency": "KZT"
+            },
+            "snippet": {
+                "requirement": "Творческих и креативных людей, увлеченных только своей профессией. Педагогическое или психологическое образование (желательно).",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Специалист по 3Д моделированию",
+            "area": {
+                "url": "https://api.hh.ru/areas/205",
+                "id": "205",
+                "name": "Шымкент"
+            },
+            "url": "https://api.hh.ru/vacancies/20399458?host=hh.ru",
+            "created_at": "2017-04-29T14:06:34+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399458",
+            "relations": [],
+            "employer": {
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2601750",
+                "name": "SHYMSPACE",
+                "url": "https://api.hh.ru/employers/2601750",
+                "alternate_url": "https://hh.ru/employer/2601750",
+                "id": "2601750",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T14:06:34+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399458",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399458"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Кандидат должен иметь практические навыки работы real-time processing (Core Java, Scala, Hadoop, Spark, etc). Иметь опыт в написании автоматизированных...",
+                "responsibility": "Обеспечивать поставку конкретных модулей системы. Принимать участие в интеграции со смежными системами. Решать проблемы с производительностью. Определять системные и технические..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Java Developer (Big Data)",
+            "area": {
+                "url": "https://api.hh.ru/areas/1002",
+                "id": "1002",
+                "name": "Минск"
+            },
+            "url": "https://api.hh.ru/vacancies/19646634?host=hh.ru",
+            "created_at": "2017-04-29T13:56:29+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=19646634",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/715322.png",
+                    "240": "https://hhcdn.ru/employer-logo/715323.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/156015.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=662769",
+                "name": "Wargaming",
+                "url": "https://api.hh.ru/employers/662769",
+                "alternate_url": "https://hh.ru/employer/662769",
+                "id": "662769",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:56:29+0300",
+            "address": null,
+            "department": {
+                "id": "662769-662769-minsk",
+                "name": "Wargaming, Minsk (Game Stream)"
+            },
+            "alternate_url": "https://hh.ru/vacancy/19646634",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "19646634"
+        },
+        {
+            "salary": {
+                "to": 2500,
+                "from": null,
+                "currency": "USD"
+            },
+            "snippet": {
+                "requirement": "Желательно иметь хороший опыт в Linux, Mysql, Sphinx, Redis, Memcache, Ruby on Rails, Docker.",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Ruby on Rails",
+            "area": {
+                "url": "https://api.hh.ru/areas/1002",
+                "id": "1002",
+                "name": "Минск"
+            },
+            "url": "https://api.hh.ru/vacancies/20399430?host=hh.ru",
+            "created_at": "2017-04-29T13:47:24+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399430",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1724722.png",
+                    "240": "https://hhcdn.ru/employer-logo/1724723.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/320589.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1791395",
+                "name": "Метрика Девелопмент",
+                "url": "https://api.hh.ru/employers/1791395",
+                "alternate_url": "https://hh.ru/employer/1791395",
+                "id": "1791395",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:47:24+0300",
+            "address": {
+                "building": "1к5",
+                "city": "Минск",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Академика Купревича",
+                "lat": 53.927703,
+                "lng": 27.68119,
+                "id": "555128"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399430",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399430"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Желательно иметь хороший опыт в Linux, Mysql, Sphinx, Redis, Memcache, Docker.",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "PHP-разработчик",
+            "area": {
+                "url": "https://api.hh.ru/areas/1002",
+                "id": "1002",
+                "name": "Минск"
+            },
+            "url": "https://api.hh.ru/vacancies/20399426?host=hh.ru",
+            "created_at": "2017-04-29T13:45:45+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20399426",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1724722.png",
+                    "240": "https://hhcdn.ru/employer-logo/1724723.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/320589.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1791395",
+                "name": "Метрика Девелопмент",
+                "url": "https://api.hh.ru/employers/1791395",
+                "alternate_url": "https://hh.ru/employer/1791395",
+                "id": "1791395",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:45:45+0300",
+            "address": {
+                "building": "1к5",
+                "city": "Минск",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Академика Купревича",
+                "lat": 53.927703,
+                "lng": 27.68119,
+                "id": "555128"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20399426",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20399426"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Техническое образование по специальности, связанной с программным обеспечением и ИТ. Обязательно знание TSQL для MSSQL2005/2008.",
+                "responsibility": "Изучение функциональных возможностей, настройка, разработка пользовательской документации, поддержка пользователей ERP-системы. Анализ бизнес-процессов предприятия и пользовательских требований, разработка технических..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Бизнес-аналитик",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/19101694?host=hh.ru",
+            "created_at": "2017-04-29T13:32:57+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=19101694",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1671282.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1671283.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/307228.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8967",
+                "name": "НПП Буревестник",
+                "url": "https://api.hh.ru/employers/8967",
+                "alternate_url": "https://hh.ru/employer/8967",
+                "id": "8967",
+                "trusted": true
+            },
+            "response_letter_required": true,
+            "published_at": "2017-04-29T13:32:57+0300",
+            "address": {
+                "building": "1",
+                "city": "Санкт-Петербург",
+                "description": null,
+                "metro": {
+                    "line_name": "Правобережная",
+                    "station_id": "17.241",
+                    "line_id": "17",
+                    "lat": 59.929092,
+                    "station_name": "Новочеркасская",
+                    "lng": 30.411915
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Правобережная",
+                        "station_id": "17.241",
+                        "line_id": "17",
+                        "lat": 59.929092,
+                        "station_name": "Новочеркасская",
+                        "lng": 30.411915
+                    }
+                ],
+                "raw": null,
+                "street": "улица Стахановцев",
+                "lat": 59.9299896039,
+                "lng": 30.4049018025,
+                "id": "173881"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/19101694",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "19101694"
+        },
+        {
+            "salary": {
+                "to": 50000,
+                "from": null,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Превосходное знание HTML, CSS. Навыки работы с консолью ОС Linux. Навыки работы с Mercurial либо GIT. Наличие возможности работать удаленно...",
+                "responsibility": "Верстка шаблонов из psd-макетов."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Верстальщик (Html, CSS)",
+            "area": {
+                "url": "https://api.hh.ru/areas/4",
+                "id": "4",
+                "name": "Новосибирск"
+            },
+            "url": "https://api.hh.ru/vacancies/20210349?host=hh.ru",
+            "created_at": "2017-04-29T13:16:54+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20210349",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/809549.png",
+                    "240": "https://hhcdn.ru/employer-logo/809550.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/137640.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=788349",
+                "name": "Правовед.RU",
+                "url": "https://api.hh.ru/employers/788349",
+                "alternate_url": "https://hh.ru/employer/788349",
+                "id": "788349",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:16:54+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20210349",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20210349"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 100000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Отличное знание PHP и опыт работы с каким-нибудь популярным современным фреймворком. MySQL (написание и оптимизация сложных запросов, работа с...",
+                "responsibility": "Постановка задач и контроль их выполнения. Управление штатом разработчиков. Fullstack-разработка интернет-сервиса совместных покупок. Анализ и аудит существующего кода. "
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Руководитель отдела web-разработки",
+            "area": {
+                "url": "https://api.hh.ru/areas/78",
+                "id": "78",
+                "name": "Самара"
+            },
+            "url": "https://api.hh.ru/vacancies/20314034?host=hh.ru",
+            "created_at": "2017-04-29T13:15:13+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20314034",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/2065870.png",
+                    "240": "https://hhcdn.ru/employer-logo/2065871.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/405948.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2555202",
+                "name": "ОПТЛИНК",
+                "url": "https://api.hh.ru/employers/2555202",
+                "alternate_url": "https://hh.ru/employer/2555202",
+                "id": "2555202",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:15:13+0300",
+            "address": {
+                "building": "44",
+                "city": "Самара",
+                "description": null,
+                "metro": {
+                    "line_name": "Первая",
+                    "station_id": "54.509",
+                    "line_id": "54",
+                    "lat": 53.209689,
+                    "station_name": "Алабинская",
+                    "lng": 50.134417
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Первая",
+                        "station_id": "54.509",
+                        "line_id": "54",
+                        "lat": 53.209689,
+                        "station_name": "Алабинская",
+                        "lng": 50.134417
+                    }
+                ],
+                "raw": null,
+                "street": "Ново-Садовая улица",
+                "lat": 53.213396,
+                "lng": 50.141228,
+                "id": "787017"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20314034",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20314034"
+        },
+        {
+            "salary": {
+                "to": 100000,
+                "from": null,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Свободное кодирование на 1С Предприятие 8.3. Умение писать отчеты с использованием схемы компоновки данных, знание WEB-сервисов. ",
+                "responsibility": "Программирование на встроенном языке 1 С: Предприятие 8.3. Реализация задач с использованием технологий web-сервисов, oData. Администрирование и поддержка..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Программист 1С",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20024684?host=hh.ru",
+            "created_at": "2017-04-29T13:15:02+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20024684",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1250920.png",
+                    "240": "https://hhcdn.ru/employer-logo/1250921.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/117107.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1650588",
+                "name": "Партия еды",
+                "url": "https://api.hh.ru/employers/1650588",
+                "alternate_url": "https://hh.ru/employer/1650588",
+                "id": "1650588",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:15:02+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20024684",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20024684"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 200000,
+                "currency": "KZT"
+            },
+            "snippet": {
+                "requirement": "Высшим техническим образованием. Лидерскими качествами. Огромным желанием работать и развиваться. 3-5 лет опыта разработки. Английский язык не ниже Intermediate. ",
+                "responsibility": "Разрабатывать лучшее travel веб-приложение на рынке. Доставлять передовые UI решения нашим пользователям. Тестировать/обкатывать/исправлять/экспериментировать во имя Пользователя :)."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Frontend-разработчик",
+            "area": {
+                "url": "https://api.hh.ru/areas/160",
+                "id": "160",
+                "name": "Алматы"
+            },
+            "url": "https://api.hh.ru/vacancies/20269738?host=hh.ru",
+            "created_at": "2017-04-29T13:14:29+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20269738",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1684094.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1684095.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/310432.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2164585",
+                "name": "Трэвелизи",
+                "url": "https://api.hh.ru/employers/2164585",
+                "alternate_url": "https://hh.ru/employer/2164585",
+                "id": "2164585",
+                "trusted": true
+            },
+            "response_letter_required": true,
+            "published_at": "2017-04-29T13:14:29+0300",
+            "address": {
+                "building": "57/8",
+                "city": "Алматы",
+                "description": null,
+                "metro": {
+                    "line_name": "Первая",
+                    "station_id": "64.436",
+                    "line_id": "64",
+                    "lat": 43.239041,
+                    "station_name": "Алатау",
+                    "lng": 76.897612
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Первая",
+                        "station_id": "64.436",
+                        "line_id": "64",
+                        "lat": 43.239041,
+                        "station_name": "Алатау",
+                        "lng": 76.897612
+                    }
+                ],
+                "raw": null,
+                "street": "улица Ходжанова",
+                "lat": 43.209401,
+                "lng": 76.911518,
+                "id": "612343"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20269738",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20269738"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 120000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Хорошо знать C#. Иметь опыт разработки на ASP.NET MVC, Web API. Хорошо уметь работать с js. Разбираться в SQL запросах. ",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Web Разработчик (C#, .NET)",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/19869496?host=hh.ru",
+            "created_at": "2017-04-29T13:14:02+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=19869496",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1042517.png",
+                    "240": "https://hhcdn.ru/employer-logo/1042518.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/153361.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=679051",
+                "name": "Доктор на работе",
+                "url": "https://api.hh.ru/employers/679051",
+                "alternate_url": "https://hh.ru/employer/679051",
+                "id": "679051",
+                "trusted": true
+            },
+            "response_letter_required": true,
+            "published_at": "2017-04-29T13:14:02+0300",
+            "address": {
+                "building": "21к3",
+                "city": "Москва",
+                "description": null,
+                "metro": {
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "station_id": "9.141",
+                    "line_id": "9",
+                    "lat": 55.81866,
+                    "station_name": "Тимирязевская",
+                    "lng": 37.574498
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.141",
+                        "line_id": "9",
+                        "lat": 55.81866,
+                        "station_name": "Тимирязевская",
+                        "lng": 37.574498
+                    }
+                ],
+                "raw": null,
+                "street": "улица Яблочкова",
+                "lat": 55.820025,
+                "lng": 37.576546,
+                "id": "148728"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/19869496",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "19869496"
+        },
+        {
+            "salary": {
+                "to": 215000,
+                "from": 115000,
+                "currency": "KZT"
+            },
+            "snippet": {
+                "requirement": "Опыт проектирования сайтов. Опыт разработки дизайн-концепций. Опыт разработки внутренних страниц сайтов. Владение графическими пакетами на высоком уровне. ",
+                "responsibility": "WEB-дизайна. Вёрстка сайтов. UI дизайн. Разработка логотипов, фирменного стиля компании, брендинга. Презентаций."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Web-дизайнер",
+            "area": {
+                "url": "https://api.hh.ru/areas/160",
+                "id": "160",
+                "name": "Алматы"
+            },
+            "url": "https://api.hh.ru/vacancies/20269726?host=hh.ru",
+            "created_at": "2017-04-29T13:13:48+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20269726",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1454441.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1454442.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/252952.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1617903",
+                "name": "Center Group Aktobe",
+                "url": "https://api.hh.ru/employers/1617903",
+                "alternate_url": "https://hh.ru/employer/1617903",
+                "id": "1617903",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:13:48+0300",
+            "address": {
+                "building": "117",
+                "city": "Алматы",
+                "description": null,
+                "metro": {
+                    "line_name": "Первая",
+                    "station_id": "64.431",
+                    "line_id": "64",
+                    "lat": 43.260199,
+                    "station_name": "Жибек Жолы",
+                    "lng": 76.946103
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Первая",
+                        "station_id": "64.431",
+                        "line_id": "64",
+                        "lat": 43.260199,
+                        "station_name": "Жибек Жолы",
+                        "lng": 76.946103
+                    }
+                ],
+                "raw": null,
+                "street": "улица Макатаева",
+                "lat": 43.263094,
+                "lng": 76.927202,
+                "id": "800154"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20269726",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20269726"
+        },
+        {
+            "salary": {
+                "to": 200000,
+                "from": 150000,
+                "currency": "KZT"
+            },
+            "snippet": {
+                "requirement": "Умение выстроить эффективное взаимодействие с коллегами. Пунктуальность, ответственность, обучаемость, исполнительность. Знание английского языка на техническом уровне (разговорный приветствуется).",
+                "responsibility": "Установка, настройка, обслуживание windows server 2008 r2/windows xp/7/8/10. Установка настройка и обслуживание бухгалтерского софта и..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Специалист по IT",
+            "area": {
+                "url": "https://api.hh.ru/areas/160",
+                "id": "160",
+                "name": "Алматы"
+            },
+            "url": "https://api.hh.ru/vacancies/20269680?host=hh.ru",
+            "created_at": "2017-04-29T13:12:50+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20269680",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1669462.png",
+                    "240": "https://hhcdn.ru/employer-logo/1669463.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/306773.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1062141",
+                "name": "КазИнтерСервис",
+                "url": "https://api.hh.ru/employers/1062141",
+                "alternate_url": "https://hh.ru/employer/1062141",
+                "id": "1062141",
+                "trusted": true
+            },
+            "response_letter_required": true,
+            "published_at": "2017-04-29T13:12:50+0300",
+            "address": {
+                "building": "162",
+                "city": "Алматы",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Желтоксан",
+                "lat": 43.244624,
+                "lng": 76.941279,
+                "id": "403004"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20269680",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20269680"
+        },
+        {
+            "salary": {
+                "to": 2500,
+                "from": 2000,
+                "currency": "USD"
+            },
+            "snippet": {
+                "requirement": "3+ years of experience in testing or developing. Tests automation experience (Selenium). Basic SQL Server and Transact SQL skills. ",
+                "responsibility": "Software Quality Assurance &amp; Testing. Ability to identify testable statements contained in requirements and specification documents, and devise and run appropriate..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Quality Assurance Engineer",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20368979?host=hh.ru",
+            "created_at": "2017-04-29T13:12:20+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20368979",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1857678.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1857679.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/353854.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=79595",
+                "name": "Broadridge",
+                "url": "https://api.hh.ru/employers/79595",
+                "alternate_url": "https://hh.ru/employer/79595",
+                "id": "79595",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:12:20+0300",
+            "address": {
+                "building": "5",
+                "city": "Санкт-Петербург",
+                "description": null,
+                "metro": {
+                    "line_name": "Фрунзенско-Приморская",
+                    "station_id": "18.248",
+                    "line_id": "18",
+                    "lat": 59.961033,
+                    "station_name": "Чкаловская",
+                    "lng": 30.292006
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Фрунзенско-Приморская",
+                        "station_id": "18.248",
+                        "line_id": "18",
+                        "lat": 59.961033,
+                        "station_name": "Чкаловская",
+                        "lng": 30.292006
+                    }
+                ],
+                "raw": null,
+                "street": "Лодейнопольская",
+                "lat": 59.964007,
+                "lng": 30.29147,
+                "id": "129421"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20368979",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20368979"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Хотя бы один завершенный проект, который не стыдно показать. Логическое мышление. Умение работать с системами контроля версий (git). ",
+                "responsibility": "Перед приглашением на собеседование обязательное тестовое задание."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Программист PHP",
+            "area": {
+                "url": "https://api.hh.ru/areas/1002",
+                "id": "1002",
+                "name": "Минск"
+            },
+            "url": "https://api.hh.ru/vacancies/20313970?host=hh.ru",
+            "created_at": "2017-04-29T13:10:58+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20313970",
+            "relations": [],
+            "employer": {
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2725200",
+                "name": "Ермолицкий Сергей Михайлович",
+                "url": "https://api.hh.ru/employers/2725200",
+                "alternate_url": "https://hh.ru/employer/2725200",
+                "id": "2725200"
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:10:58+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20313970",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20313970"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 100000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Высшее образование (предпочтительно техническое). Опыт настройки и эксплуатации 1С 8.2 и 8.3 от 1 года. ",
+                "responsibility": "Методическая поддержка оригинальных конфигураций на основе УТ 10.3, ограниченная поддержка нескольких баз конфигурации «Бухгалтерия предприятия 3.0». "
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Специалист 1С",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/19984918?host=hh.ru",
+            "created_at": "2017-04-29T13:10:58+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=19984918",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1870542.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1870543.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/357070.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1894526",
+                "name": "Браво",
+                "url": "https://api.hh.ru/employers/1894526",
+                "alternate_url": "https://hh.ru/employer/1894526",
+                "id": "1894526",
+                "trusted": true
+            },
+            "response_letter_required": true,
+            "published_at": "2017-04-29T13:10:58+0300",
+            "address": {
+                "building": "22к3",
+                "city": "Дзержинский",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Энергетиков",
+                "lat": 55.644897,
+                "lng": 37.829108,
+                "id": "632471"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/19984918",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "19984918"
+        },
+        {
+            "salary": {
+                "to": 80000,
+                "from": 60000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Опыт программирования на PHP от двух лет. Понимание ООП и шаблонов проектирования. Понимание концепции MVC и опыт работы с любым...",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "PHP-разработчик",
+            "area": {
+                "url": "https://api.hh.ru/areas/4",
+                "id": "4",
+                "name": "Новосибирск"
+            },
+            "url": "https://api.hh.ru/vacancies/20269642?host=hh.ru",
+            "created_at": "2017-04-29T13:10:49+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20269642",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1680542.png",
+                    "240": "https://hhcdn.ru/employer-logo/1680543.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/309543.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=950200",
+                "name": "Резольвента",
+                "url": "https://api.hh.ru/employers/950200",
+                "alternate_url": "https://hh.ru/employer/950200",
+                "id": "950200",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:10:49+0300",
+            "address": {
+                "building": "12",
+                "city": "Новосибирск",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Семьи Шамшиных",
+                "lat": 55.027258,
+                "lng": 82.934318,
+                "id": "328059"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20269642",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20269642"
+        },
+        {
+            "salary": {
+                "to": 150000,
+                "from": 80000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Хорошие знания HTML, CSS и JavaScript. Опыт работы с современными js-фреймворками. Знания одного из серверных языков разработки (php, nodejs...",
+                "responsibility": "Разработка новых и поддержка существующих сайтов компании и посадочные страницы. Анализировать и оптимизировать клиентскую часть существующих сайтов компании для уменьшения..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Front-End developer/ верстальщик",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/20016305?host=hh.ru",
+            "created_at": "2017-04-29T13:10:01+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20016305",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1725914.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1725915.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/320887.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1194790",
+                "name": "BLACKBOARD",
+                "url": "https://api.hh.ru/employers/1194790",
+                "alternate_url": "https://hh.ru/employer/1194790",
+                "id": "1194790",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:10:01+0300",
+            "address": {
+                "building": "14",
+                "city": "Москва",
+                "description": null,
+                "metro": {
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "station_id": "9.154",
+                    "line_id": "9",
+                    "lat": 55.771653,
+                    "station_name": "Цветной бульвар",
+                    "lng": 37.620466
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.154",
+                        "line_id": "9",
+                        "lat": 55.771653,
+                        "station_name": "Цветной бульвар",
+                        "lng": 37.620466
+                    },
+                    {
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.120",
+                        "line_id": "6",
+                        "lat": 55.781827,
+                        "station_name": "Проспект Мира",
+                        "lng": 37.633199
+                    },
+                    {
+                        "line_name": "Люблинско-Дмитровская",
+                        "station_id": "10.184",
+                        "line_id": "10",
+                        "lat": 55.781667,
+                        "station_name": "Достоевская",
+                        "lng": 37.613889
+                    },
+                    {
+                        "line_name": "Кольцевая",
+                        "station_id": "5.119",
+                        "line_id": "5",
+                        "lat": 55.779584,
+                        "station_name": "Проспект Мира",
+                        "lng": 37.633646
+                    }
+                ],
+                "raw": null,
+                "street": "Олимпийский проспект",
+                "lat": 55.77835,
+                "lng": 37.623375,
+                "id": "486140"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20016305",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20016305"
+        },
+        {
+            "salary": {
+                "to": 2000,
+                "from": null,
+                "currency": "USD"
+            },
+            "snippet": {
+                "requirement": "HTML+CSS(Bootstrap). DESIRABLE SKILLS: MVC JavaScript frameworks (especially Knockout.js). Knowledge in template engine (especially C# Razor). GIT, SVN. ",
+                "responsibility": "Angluar / react."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "HTML developer/Front-end Developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/20094905?host=hh.ru",
+            "created_at": "2017-04-29T13:09:36+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20094905",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1667110.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1667111.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/306185.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2132495",
+                "name": "Лайм Системс",
+                "url": "https://api.hh.ru/employers/2132495",
+                "alternate_url": "https://hh.ru/employer/2132495",
+                "id": "2132495",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:09:36+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20094905",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20094905"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Высшее техническое образование, хорошая алгоритмическая база(понимание ООП, алгоритмов и структур данных). Хорошая математическая база. Уверенный уровень знания системы контроля...",
+                "responsibility": "Разработка игр на мобильные платформы."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Программист С#",
+            "area": {
+                "url": "https://api.hh.ru/areas/76",
+                "id": "76",
+                "name": "Ростов-на-Дону"
+            },
+            "url": "https://api.hh.ru/vacancies/20313917?host=hh.ru",
+            "created_at": "2017-04-29T13:07:51+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20313917",
+            "relations": [],
+            "employer": {
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2781164",
+                "name": "ГЕЙМНАТС",
+                "url": "https://api.hh.ru/employers/2781164",
+                "alternate_url": "https://hh.ru/employer/2781164",
+                "id": "2781164"
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:07:51+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20313917",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20313917"
+        },
+        {
+            "salary": {
+                "to": 80000,
+                "from": 45000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Приветствуется знание конфигураций 1С: УТ 10.3, УТ 11. Понимание работы 1С, понимание лицензирования. Знание настройки периферийных устройств. ",
+                "responsibility": "Консультация заказчиков по вопросам работы 1С конфигураций. Выяснение потребностей заказчиков. Моделирование потребностей в виде аналитических и графических блок-схем. "
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Помощник менеджера проектов 1С",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/20269559?host=hh.ru",
+            "created_at": "2017-04-29T13:07:21+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20269559",
+            "relations": [],
+            "employer": {
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=723204",
+                "name": "Райт Скан",
+                "url": "https://api.hh.ru/employers/723204",
+                "alternate_url": "https://hh.ru/employer/723204",
+                "id": "723204",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:07:21+0300",
+            "address": {
+                "building": "11/2с4",
+                "city": "Москва",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "Малая Семеновская улица",
+                "lat": 55.78524,
+                "lng": 37.71062,
+                "id": "364768"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20269559",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20269559"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 3000,
+                "currency": "USD"
+            },
+            "snippet": {
+                "requirement": "Good knowledge of: C#, T-SQL. JavaScript, KnockoutJS, AngularJS. ASP.NET WebAPI / MVC. CSS/LESS. Knowledge of following technologies is a...",
+                "responsibility": "Client-side build systems / module bundlers (Webpack, Gulp, etc.). Proposal."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Senior .Net Web Developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20368885?host=hh.ru",
+            "created_at": "2017-04-29T13:06:28+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20368885",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1857678.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1857679.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/353854.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=79595",
+                "name": "Broadridge",
+                "url": "https://api.hh.ru/employers/79595",
+                "alternate_url": "https://hh.ru/employer/79595",
+                "id": "79595",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:06:28+0300",
+            "address": {
+                "building": "5",
+                "city": "Санкт-Петербург",
+                "description": null,
+                "metro": {
+                    "line_name": "Фрунзенско-Приморская",
+                    "station_id": "18.248",
+                    "line_id": "18",
+                    "lat": 59.961033,
+                    "station_name": "Чкаловская",
+                    "lng": 30.292006
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Фрунзенско-Приморская",
+                        "station_id": "18.248",
+                        "line_id": "18",
+                        "lat": 59.961033,
+                        "station_name": "Чкаловская",
+                        "lng": 30.292006
+                    }
+                ],
+                "raw": null,
+                "street": "Лодейнопольская",
+                "lat": 59.964007,
+                "lng": 30.29147,
+                "id": "129421"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20368885",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20368885"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 100000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Высшее техническое образование. Отличное знание Perl. Уверенное знание SQL (postgresql). Понимание концепции ООП. Опыт бэкенд-разработки. Работа в *nix-среде. ",
+                "responsibility": "Разработка успешного проекта в команде разработчиков."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Программист Perl (Perl Developer / разработчик)",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/20210125?host=hh.ru",
+            "created_at": "2017-04-29T13:05:08+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20210125",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/975269.png",
+                    "240": "https://hhcdn.ru/employer-logo/975270.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/156298.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=660992",
+                "name": "Адвего",
+                "url": "https://api.hh.ru/employers/660992",
+                "alternate_url": "https://hh.ru/employer/660992",
+                "id": "660992",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:05:08+0300",
+            "address": {
+                "building": null,
+                "city": null,
+                "description": null,
+                "metro": {
+                    "line_name": "Серпуховско-Тимирязевская",
+                    "station_id": "9.28",
+                    "line_id": "9",
+                    "lat": 55.848236,
+                    "station_name": "Владыкино",
+                    "lng": 37.590451
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Серпуховско-Тимирязевская",
+                        "station_id": "9.28",
+                        "line_id": "9",
+                        "lat": 55.848236,
+                        "station_name": "Владыкино",
+                        "lng": 37.590451
+                    }
+                ],
+                "raw": null,
+                "street": null,
+                "lat": null,
+                "lng": null,
+                "id": "182555"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20210125",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20210125"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 70000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Высшее образование (IT или смежные специальности). Опыт программирования в 1С 8.X от 3-х лет. Опыт разработки в...",
+                "responsibility": "Работа в команде. Участие в разработке и внедрении КИС на базе 1С 8.3 клиент серверный вариант ( работа в..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Программист 8.3",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20094818?host=hh.ru",
+            "created_at": "2017-04-29T13:04:04+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20094818",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/496162.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/496163.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/226005.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=28776",
+                "name": "Гардарика, транспортно-экспедиционная компания",
+                "url": "https://api.hh.ru/employers/28776",
+                "alternate_url": "https://hh.ru/employer/28776",
+                "id": "28776",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:04:04+0300",
+            "address": null,
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20094818",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20094818"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 3000,
+                "currency": "USD"
+            },
+            "snippet": {
+                "requirement": "Education: BS/MS in Computer Science or equivalent. 3+ years of experience in software development. Excellent understanding of C#...",
+                "responsibility": "Software Design and Development: Ability to work with complex requirements and specification documents, and devise and develop appropriate software solutions. "
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Senior .NET developer / Старший разработчик",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20368809?host=hh.ru",
+            "created_at": "2017-04-29T13:03:16+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20368809",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1857678.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1857679.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/353854.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=79595",
+                "name": "Broadridge",
+                "url": "https://api.hh.ru/employers/79595",
+                "alternate_url": "https://hh.ru/employer/79595",
+                "id": "79595",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:03:16+0300",
+            "address": {
+                "building": "5",
+                "city": "Санкт-Петербург",
+                "description": null,
+                "metro": {
+                    "line_name": "Фрунзенско-Приморская",
+                    "station_id": "18.248",
+                    "line_id": "18",
+                    "lat": 59.961033,
+                    "station_name": "Чкаловская",
+                    "lng": 30.292006
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Фрунзенско-Приморская",
+                        "station_id": "18.248",
+                        "line_id": "18",
+                        "lat": 59.961033,
+                        "station_name": "Чкаловская",
+                        "lng": 30.292006
+                    }
+                ],
+                "raw": null,
+                "street": "Лодейнопольская",
+                "lat": 59.964007,
+                "lng": 30.29147,
+                "id": "129421"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20368809",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20368809"
+        },
+        {
+            "salary": {
+                "to": 1900,
+                "from": 1500,
+                "currency": "EUR"
+            },
+            "snippet": {
+                "requirement": "Стек: backend - Java 8, Spring, Hibernate, Oracle. Frontend - Angular 1.x. Frontend testing - Karma, Protractor. Способность презентовать свои технические идеи...",
+                "responsibility": "Разработка приложений с использованием современных Java технологий. Создание технического дизайна приложений, написание кода, поиск и устранение багов. Работа над тем..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Java-разработчик in Tallinn",
+            "area": {
+                "url": "https://api.hh.ru/areas/66",
+                "id": "66",
+                "name": "Нижний Новгород"
+            },
+            "url": "https://api.hh.ru/vacancies/20269454?host=hh.ru",
+            "created_at": "2017-04-29T13:02:08+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20269454",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1239873.png",
+                    "240": "https://hhcdn.ru/employer-logo/1239874.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/112221.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1215314",
+                "name": "Smartbics",
+                "url": "https://api.hh.ru/employers/1215314",
+                "alternate_url": "https://hh.ru/employer/1215314",
+                "id": "1215314",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:02:08+0300",
+            "address": {
+                "building": "18/4",
+                "city": "Нижний Новгород",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "Торговая улица",
+                "lat": 56.330375,
+                "lng": 43.994991,
+                "id": "277088"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20269454",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20269454"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Опыт frontend разработки от 2-х лет - JavaScript. Опыт работы с CSS (в том числе параметризация стилей на Scss/Less). ",
+                "responsibility": "Проектирование интерфейса различных приложений на бумаге/доске. Программирование прототипа. Доведение прототипа до состояния Production."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Frontend разработчик",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/19865474?host=career.ru",
+            "created_at": "2017-04-29T13:00:48+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=19865474",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1965402.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1965403.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/380786.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2628219",
+                "name": "БОСТОНДЖИН",
+                "url": "https://api.hh.ru/employers/2628219",
+                "alternate_url": "https://hh.ru/employer/2628219",
+                "id": "2628219",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:00:48+0300",
+            "address": {
+                "building": "6с4",
+                "city": "Москва",
+                "description": null,
+                "metro": {
+                    "line_name": "Замоскворецкая",
+                    "station_id": "2.101",
+                    "line_id": "2",
+                    "lat": 55.729741,
+                    "station_name": "Павелецкая",
+                    "lng": 37.638693
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Замоскворецкая",
+                        "station_id": "2.101",
+                        "line_id": "2",
+                        "lat": 55.729741,
+                        "station_name": "Павелецкая",
+                        "lng": 37.638693
+                    }
+                ],
+                "raw": null,
+                "street": "Шлюзовая набережная",
+                "lat": 55.730963,
+                "lng": 37.646687,
+                "id": "742835"
+            },
+            "department": null,
+            "alternate_url": "https://career.ru/vacancy/19865474",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "19865474"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Опыт программирования на С# от 3-х лет. Знание принципов ООП и паттернов проектирования. Знание теоретических основ баз данных, опыт...",
+                "responsibility": "Написание нового и поддержка уже существующего функционала серверных систем. Тестирование кода. Разработка требований и дизайна. Планирование работы."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "C# Developer",
+            "area": {
+                "url": "https://api.hh.ru/areas/78",
+                "id": "78",
+                "name": "Самара"
+            },
+            "url": "https://api.hh.ru/vacancies/18992222?host=hh.ru",
+            "created_at": "2017-04-29T13:00:30+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=18992222",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/310705.png",
+                    "240": "https://hhcdn.ru/employer-logo/383562.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/230936.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6198",
+                "name": "CQG",
+                "url": "https://api.hh.ru/employers/6198",
+                "alternate_url": "https://hh.ru/employer/6198",
+                "id": "6198",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T13:00:30+0300",
+            "address": {
+                "building": "92",
+                "city": "Самара",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Алексея Толстого",
+                "lat": 53.187391,
+                "lng": 50.083278,
+                "id": "187435"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/18992222",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "18992222"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Понятно, что PHP, MySQL, ООП, MVC - те ключевые слова, о которых вы должны знать почти всё. Настоятельно рекомендуемо знание PHP...",
+                "responsibility": "В индустрии разработки есть 3 категории работников:"
+            },
+            "archived": false,
+            "premium": false,
+            "name": "PHP-программист",
+            "area": {
+                "url": "https://api.hh.ru/areas/160",
+                "id": "160",
+                "name": "Алматы"
+            },
+            "url": "https://api.hh.ru/vacancies/20313718?host=hh.ru",
+            "created_at": "2017-04-29T12:56:50+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20313718",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/483109.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/483110.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/149554.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=703174",
+                "name": "IBEC Systems",
+                "url": "https://api.hh.ru/employers/703174",
+                "alternate_url": "https://hh.ru/employer/703174",
+                "id": "703174",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:56:50+0300",
+            "address": {
+                "building": "117",
+                "city": "Алматы",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Макатаева",
+                "lat": 43.263094,
+                "lng": 76.927202,
+                "id": "602017"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20313718",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20313718"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 60000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Гражданство РФ. Высшее образование. Опыт работы в сфере ресторанного бизнеса. Опыт работы на руководящей должности. Знание «R-keeper 7», «Storehouse». ",
+                "responsibility": "Техническая поддержка сети кофеен (3 кофейни) и ресторана. Обеспечение бесперебойной работы локальной сети организации, сервера, сетевых устройств, персональных компьютеров и..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "IT специалист/Старший системный администратор",
+            "area": {
+                "url": "https://api.hh.ru/areas/2053",
+                "id": "2053",
+                "name": "Одинцово"
+            },
+            "url": "https://api.hh.ru/vacancies/20209906?host=hh.ru",
+            "created_at": "2017-04-29T12:55:23+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20209906",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1766090.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1766091.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/330935.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2127719",
+                "name": "Ресторация",
+                "url": "https://api.hh.ru/employers/2127719",
+                "alternate_url": "https://hh.ru/employer/2127719",
+                "id": "2127719",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:55:23+0300",
+            "address": {
+                "building": "2А",
+                "city": "Одинцово",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Маковского",
+                "lat": 55.670732,
+                "lng": 37.280956,
+                "id": "602156"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20209906",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20209906"
+        },
+        {
+            "salary": {
+                "to": 150000,
+                "from": 80000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Опыт разработки на Ruby on Rails. Опыт работы с БД PostgreSQL или MySQL. Опыт в написании тестов (RSpec). ",
+                "responsibility": "Решать интересные задачи по развитию сервиса, помогать коллегам писать их код еще лучше, участвовать в проектировании новых фич для пользователей..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Разработчик Ruby on Rails",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/20313688?host=hh.ru",
+            "created_at": "2017-04-29T12:55:12+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20313688",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/2070634.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/2070635.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/407139.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1805574",
+                "name": "Инсейлс Рус",
+                "url": "https://api.hh.ru/employers/1805574",
+                "alternate_url": "https://hh.ru/employer/1805574",
+                "id": "1805574",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:55:12+0300",
+            "address": {
+                "building": "18с11",
+                "city": "Москва",
+                "description": null,
+                "metro": {
+                    "line_name": "Сокольническая",
+                    "station_id": "1.54",
+                    "line_id": "1",
+                    "lat": 55.774072,
+                    "station_name": "Комсомольская",
+                    "lng": 37.654565
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Сокольническая",
+                        "station_id": "1.54",
+                        "line_id": "1",
+                        "lat": 55.774072,
+                        "station_name": "Комсомольская",
+                        "lng": 37.654565
+                    }
+                ],
+                "raw": null,
+                "street": "Новорязанская улица",
+                "lat": 55.770375,
+                "lng": 37.660305,
+                "id": "760446"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20313688",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20313688"
+        },
+        {
+            "salary": {
+                "to": 100000,
+                "from": 60000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Знание php5. Знание ООП и умение применять его не практике. Опыт работы с Yii2 / Laravel (или другими MVC...",
+                "responsibility": "Проектирование и разработка новых сервисов и приложений. Проектирование базы данных. Поддержка существующих проектов. Работа со сторонними API."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Программист PHP",
+            "area": {
+                "url": "https://api.hh.ru/areas/4",
+                "id": "4",
+                "name": "Новосибирск"
+            },
+            "url": "https://api.hh.ru/vacancies/20269264?host=career.ru",
+            "created_at": "2017-04-29T12:54:57+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20269264",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1748534.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/1748535.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/326546.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2008933",
+                "name": "Сеть магазинов зоотоваров Мокрый нос",
+                "url": "https://api.hh.ru/employers/2008933",
+                "alternate_url": "https://hh.ru/employer/2008933",
+                "id": "2008933",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:54:57+0300",
+            "address": {
+                "building": "50",
+                "city": "Новосибирск",
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": null,
+                "street": "улица Некрасова",
+                "lat": 55.045568,
+                "lng": 82.927661,
+                "id": "644629"
+            },
+            "department": null,
+            "alternate_url": "https://career.ru/vacancy/20269264",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20269264"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "At least 2 years of manual testing experience. Good knowledge of software testing methods and routines. Good oral and written...",
+                "responsibility": "Project development: design of test cases‚ test execution, regression testing, reporting. Project support: technical analysis of customers’ problems, suggesting solution."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "QA Engineer in Sweden",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20368558?host=hh.ru",
+            "created_at": "2017-04-29T12:52:34+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20368558",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/717692.png",
+                    "240": "https://hhcdn.ru/employer-logo/717693.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/205544.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=121865",
+                "name": "Kentor",
+                "url": "https://api.hh.ru/employers/121865",
+                "alternate_url": "https://hh.ru/employer/121865",
+                "id": "121865",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:52:34+0300",
+            "address": {
+                "building": "29",
+                "city": "Санкт-Петербург",
+                "description": null,
+                "metro": {
+                    "line_name": "Московско-Петроградская",
+                    "station_id": "15.217",
+                    "line_id": "15",
+                    "lat": 59.935421,
+                    "station_name": "Невский проспект",
+                    "lng": 30.327052
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Московско-Петроградская",
+                        "station_id": "15.217",
+                        "line_id": "15",
+                        "lat": 59.935421,
+                        "station_name": "Невский проспект",
+                        "lng": 30.327052
+                    }
+                ],
+                "raw": null,
+                "street": "Большая Конюшенная",
+                "lat": 59.936652,
+                "lng": 30.322075,
+                "id": "7357"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20368558",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20368558"
+        },
+        {
+            "salary": {
+                "to": 115000,
+                "from": null,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Высшее образование. Опыт работы по специальности не менее 5-ти лет. Опыт работы с 1С УПП. Опыт работы с...",
+                "responsibility": "Поддержка и развитие существующих конфигураций 1С (УПП, WMS 4.x Axelot). Разработка и настройка новых модулей для нетиповых операций..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Специалист 1С по автоматизированным складским и производственным системам",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/20269166?host=hh.ru",
+            "created_at": "2017-04-29T12:51:12+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20269166",
+            "relations": [],
+            "employer": {
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=123749",
+                "name": "ТРИЭР",
+                "url": "https://api.hh.ru/employers/123749",
+                "alternate_url": "https://hh.ru/employer/123749",
+                "id": "123749",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:51:12+0300",
+            "address": {
+                "building": null,
+                "city": null,
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": "Москва, Кавказский бульвар, 59с1. м. Кантемировская",
+                "street": null,
+                "lat": null,
+                "lng": null,
+                "id": "358118"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20269166",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20269166"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Отличные знания PHP, MySQL. Отличные знания 1С-Битрикс (API, компоненты, модули). Знание и опыт работы с Битрикс24. ",
+                "responsibility": "Разработка веб-порталов на платформе Битрикс."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Разработчик на платформе Битрикс",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/19969268?host=hh.ru",
+            "created_at": "2017-04-29T12:51:07+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=19969268",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/971222.png",
+                    "240": "https://hhcdn.ru/employer-logo/971223.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/32080.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1407995",
+                "name": "Хэндисофт",
+                "url": "https://api.hh.ru/employers/1407995",
+                "alternate_url": "https://hh.ru/employer/1407995",
+                "id": "1407995",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:51:07+0300",
+            "address": {
+                "building": null,
+                "city": null,
+                "description": null,
+                "metro": {
+                    "line_name": "Кольцевая",
+                    "station_id": "5.102",
+                    "line_id": "5",
+                    "lat": 55.731414,
+                    "station_name": "Павелецкая",
+                    "lng": 37.636294
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Кольцевая",
+                        "station_id": "5.102",
+                        "line_id": "5",
+                        "lat": 55.731414,
+                        "station_name": "Павелецкая",
+                        "lng": 37.636294
+                    },
+                    {
+                        "line_name": "Замоскворецкая",
+                        "station_id": "2.101",
+                        "line_id": "2",
+                        "lat": 55.729741,
+                        "station_name": "Павелецкая",
+                        "lng": 37.638693
+                    }
+                ],
+                "raw": null,
+                "street": null,
+                "lat": null,
+                "lng": null,
+                "id": "643406"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/19969268",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "19969268"
+        },
+        {
+            "salary": {
+                "to": 150000,
+                "from": 90000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Уверенное знание php 5.5,знание php7 будет Вашим преимуществом . Опыт работы от 2-х лет. Опыт работы с...",
+                "responsibility": "Разработка новых проектов на php7+Yii2 + PostgreSQL."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "PHP программист",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20268966?host=hh.ru",
+            "created_at": "2017-04-29T12:44:50+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20268966",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1924454.png",
+                    "240": "https://hhcdn.ru/employer-logo/1924455.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/370549.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=811315",
+                "name": "Фотосклад.ру",
+                "url": "https://api.hh.ru/employers/811315",
+                "alternate_url": "https://hh.ru/employer/811315",
+                "id": "811315",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:44:50+0300",
+            "address": {
+                "building": null,
+                "city": null,
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": "г. Санкт-Петербург, ул. Савушкина 24",
+                "street": null,
+                "lat": null,
+                "lng": null,
+                "id": "172750"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20268966",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20268966"
+        },
+        {
+            "salary": {
+                "to": null,
+                "from": 80000,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Хорошо знакомы с платформой 1С 8.Х. Умеете работать с SOAP, Web-сервисами и новыми технологиями интеграции 1С. ",
+                "responsibility": "Разработка и поддержка собственной конфигурации 1С «Карго» для ведения управленческого учета в логистике. Участие в создании новой версии продукта..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Программист 1С",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20151703?host=hh.ru",
+            "created_at": "2017-04-29T12:44:00+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20151703",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1993206.png",
+                    "240": "https://hhcdn.ru/employer-logo/1993207.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/387737.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1938750",
+                "name": "Курьер Сервис",
+                "url": "https://api.hh.ru/employers/1938750",
+                "alternate_url": "https://hh.ru/employer/1938750",
+                "id": "1938750",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:44:00+0300",
+            "address": {
+                "building": "295",
+                "city": "Санкт-Петербург",
+                "description": null,
+                "metro": {
+                    "line_name": "Невско-Василеостровская",
+                    "station_id": "16.235",
+                    "line_id": "16",
+                    "lat": 59.848709,
+                    "station_name": "Обухово",
+                    "lng": 30.457743
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Невско-Василеостровская",
+                        "station_id": "16.235",
+                        "line_id": "16",
+                        "lat": 59.848709,
+                        "station_name": "Обухово",
+                        "lng": 30.457743
+                    }
+                ],
+                "raw": null,
+                "street": "проспект Обуховской Обороны",
+                "lat": 59.848154,
+                "lng": 30.462806,
+                "id": "541429"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20151703",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20151703"
+        },
+        {
+            "salary": {
+                "to": 150000,
+                "from": null,
+                "currency": "RUR"
+            },
+            "snippet": {
+                "requirement": "Обязателен релевантный опыт работы в интернет-магазинах от 1 года. Знание конфигураций 1С &quot;Управление торговлей&quot; 11, &quot;Бухгалтерия&quot; 8.3.",
+                "responsibility": "Программирование 1С. Внутренняя автоматизация системы интернет-магазина. Расширение функционала базы 1С. Поиск ошибок и решение проблем в базе..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Ведущий программист 1C",
+            "area": {
+                "url": "https://api.hh.ru/areas/1",
+                "id": "1",
+                "name": "Москва"
+            },
+            "url": "https://api.hh.ru/vacancies/20368363?host=hh.ru",
+            "created_at": "2017-04-29T12:43:32+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20368363",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/2011410.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/2011411.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/392289.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2619864",
+                "name": "ТуБокс Сервис РУ",
+                "url": "https://api.hh.ru/employers/2619864",
+                "alternate_url": "https://hh.ru/employer/2619864",
+                "id": "2619864",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:43:32+0300",
+            "address": {
+                "building": "17",
+                "city": "Москва",
+                "description": null,
+                "metro": {
+                    "line_name": "Калужско-Рижская",
+                    "station_id": "6.41",
+                    "line_id": "6",
+                    "lat": 55.656682,
+                    "station_name": "Калужская",
+                    "lng": 37.540075
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Калужско-Рижская",
+                        "station_id": "6.41",
+                        "line_id": "6",
+                        "lat": 55.656682,
+                        "station_name": "Калужская",
+                        "lng": 37.540075
+                    }
+                ],
+                "raw": null,
+                "street": "улица Бутлерова",
+                "lat": 55.65015,
+                "lng": 37.540587,
+                "id": "737563"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20368363",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20368363"
+        },
+        {
+            "salary": {
+                "to": 250000,
+                "from": null,
+                "currency": "KZT"
+            },
+            "snippet": {
+                "requirement": "Высшее техническое образование (желательно). Стаж активной работы в проектах разработки ПО не менее 1 года. Опыт разработки бизнес-приложений. ",
+                "responsibility": "Разработка программного обеспечения уровня Enterprise с использованием инструментария от DevExpress (eXpressApp Framework), C#, ASP.NET. Разработка программного обеспечения в среде Visual..."
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Программист-разработчик",
+            "area": {
+                "url": "https://api.hh.ru/areas/160",
+                "id": "160",
+                "name": "Алматы"
+            },
+            "url": "https://api.hh.ru/vacancies/20209588?host=career.ru",
+            "created_at": "2017-04-29T12:43:17+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20209588",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/474247.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/474248.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/151704.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=689425",
+                "name": "Технологии Управления Проектами",
+                "url": "https://api.hh.ru/employers/689425",
+                "alternate_url": "https://hh.ru/employer/689425",
+                "id": "689425",
+                "trusted": true
+            },
+            "response_letter_required": true,
+            "published_at": "2017-04-29T12:43:17+0300",
+            "address": {
+                "building": null,
+                "city": null,
+                "description": null,
+                "metro": null,
+                "metro_stations": [],
+                "raw": "Алматы",
+                "street": null,
+                "lat": null,
+                "lng": null,
+                "id": "356889"
+            },
+            "department": null,
+            "alternate_url": "https://career.ru/vacancy/20209588",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20209588"
+        },
+        {
+            "salary": null,
+            "snippet": {
+                "requirement": "Знание JavaScript, включая ES5 и ES6. Опыт разработки на node.js. Работа с базами данных (MySQL, Redis, MongoDB). ",
+                "responsibility": null
+            },
+            "archived": false,
+            "premium": false,
+            "name": "Разработчик node.js",
+            "area": {
+                "url": "https://api.hh.ru/areas/2",
+                "id": "2",
+                "name": "Санкт-Петербург"
+            },
+            "url": "https://api.hh.ru/vacancies/20151642?host=hh.ru",
+            "created_at": "2017-04-29T12:41:19+0300",
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=20151642",
+            "relations": [],
+            "employer": {
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/1696054.png",
+                    "240": "https://hhcdn.ru/employer-logo/1696055.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/313422.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1688555",
+                "name": "Touch Instinct",
+                "url": "https://api.hh.ru/employers/1688555",
+                "alternate_url": "https://hh.ru/employer/1688555",
+                "id": "1688555",
+                "trusted": true
+            },
+            "response_letter_required": false,
+            "published_at": "2017-04-29T12:41:19+0300",
+            "address": {
+                "building": "18",
+                "city": "Санкт-Петербург",
+                "description": null,
+                "metro": {
+                    "line_name": "Фрунзенско-Приморская",
+                    "station_id": "18.249",
+                    "line_id": "18",
+                    "lat": 59.952026,
+                    "station_name": "Спортивная",
+                    "lng": 30.291338
+                },
+                "metro_stations": [
+                    {
+                        "line_name": "Фрунзенско-Приморская",
+                        "station_id": "18.249",
+                        "line_id": "18",
+                        "lat": 59.952026,
+                        "station_name": "Спортивная",
+                        "lng": 30.291338
+                    }
+                ],
+                "raw": null,
+                "street": "Большой проспект П.С.",
+                "lat": 59.955516,
+                "lng": 30.294946,
+                "id": "535878"
+            },
+            "department": null,
+            "alternate_url": "https://hh.ru/vacancy/20151642",
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "id": "20151642"
+        }
+    ],
+    "pages": 40,
+    "arguments": null,
+    "found": 21329,
+    "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&items_on_page=50&specialization=1.221",
+    "per_page": 50,
+    "page": 0
+}
