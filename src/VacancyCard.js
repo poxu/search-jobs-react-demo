@@ -4,7 +4,7 @@ import FlatButton from 'material-ui/FlatButton';
 
 const CardExampleWithAvatar = (params) => (
   <Card>
-    <a href={params.data.link}><CardHeader
+    <a href={params.data.employerProfile}><CardHeader
       title={params.data.employerName}
       avatar={params.data.employerImg}
     /></a>
