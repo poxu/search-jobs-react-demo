@@ -104,7 +104,7 @@ var VacancyList = React.createClass({
                             let data = {
                                 name: el.name,
                                 link: el.alternate_url,
-                                description: el.snippet['responsibility'] ? el.snippet['responsibility'] : "Детальное описание на доступно на сайте...",
+                                description: el.snippet['responsibility'] ? el.snippet['responsibility'] : "Детальное описание доступно на сайте...",
                                 employerName: el.employer.name,
                                 employerImg: el.employer.logo_urls ? el.employer.logo_urls["90"] : 'http://coachcentrug.ru/wp-content/uploads/2016/09/hh-768x767.png',
                                 employerProfile: el.employer.alternate_url
